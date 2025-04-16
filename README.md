@@ -27,7 +27,17 @@ The purpose of this project is to practice and demonstrate proficiency in:
 
 ## 📁 Folder Structure
 
-DATEPICKER-UI/ │ ├── src/ │ ├── css/ │ │ └── index.css # All styling │ └── Pages/ # (Add .html files here if any) │ ├── index.html # Entry point └── README.md # Project documentation
+Datepicker-UI/
+│
+├── src/
+│   ├── css/
+│   │   └── index.css         # All calendar styling
+│   └── Pages/
+│       └── index.html        # Main entry HTML file
+│
+└── README.md                 # Project documentation
+
+
 
 
 ## 🚀 How to Run
