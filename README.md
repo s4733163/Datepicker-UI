@@ -2,7 +2,11 @@
 
 This is a **static datepicker UI** built using only **HTML and CSS**, inspired by the [roadmap.sh Datepicker UI project](https://roadmap.sh/projects/datepicker-ui). While this version is not functional yet (i.e., no JavaScript), it provides a solid foundation for future interactivity.
 
-🔗 **Project Brief**: [https://roadmap.sh/projects/datepicker-ui](https://roadmap.sh/projects/datepicker-ui)
+## 🔗 Project Links
+
+- **Project Brief**: [https://roadmap.sh/projects/datepicker-ui](https://roadmap.sh/projects/datepicker-ui)  
+- **GitHub Repository**: [https://github.com/s4733163/Datepicker-UI](https://github.com/s4733163/Datepicker-UI)
+
 
 ## 🎯 Project Objective
 
