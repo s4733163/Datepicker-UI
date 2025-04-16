@@ -1,0 +1,91 @@
+
+[type="date"] {
+    font-size: 1.2rem;
+    border: 2px solid;
+    width: 90%;
+    max-width: 400px;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+  }
+
+  main {
+    border: 4px solid;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+
+  .container4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .container4 > button {
+    background-color: transparent;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  
+  .container4 h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .container5 {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 3px solid;
+  }
+  
+  .container5 h3 {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .container6 {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 1px;
+  }
+  
+  .container6 > div {
+    aspect-ratio: 1 / 1;
+    border: 1px solid #aaa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+
+  @media (max-width: 600px) {
+    main {
+      width: 95vw;
+    }
+  
+    [type="date"] {
+      width: 90vw;
+    }
+  
+    .container4 h2 {
+      font-size: 1.2rem;
+    }
+  
+    .container6 > div {
+      font-size: 0.9rem;
+    }
+  
+    .container5 h3 {
+      font-size: 0.9rem;
+    }
+  }
+  
