@@ -26,7 +26,7 @@ The purpose of this project is to practice and demonstrate proficiency in:
 - Styled date input using `<input type="date">`
 
 ## 📁 Folder Structure
-
+```bash
 Datepicker-UI/
 │
 ├── src/
@@ -36,6 +36,7 @@ Datepicker-UI/
 │       └── index.html        # Main entry HTML file
 │
 └── README.md                 # Project documentation
+```
 
 
 
